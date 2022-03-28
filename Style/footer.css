@@ -1,0 +1,13 @@
+.footer {
+  background-color: grey;
+  color: white;
+  text-align: center;
+  padding: 24px 0;
+  max-width: none;
+  border-radius: 3px;
+}
+
+.svg{
+  size: 2px;
+  padding: 0;
+}
